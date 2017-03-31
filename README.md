@@ -1,2 +1,2 @@
-# Steam-Account-Register
+# Steam Account Register
 simple acc register.
